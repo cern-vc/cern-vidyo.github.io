@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Wellcome to the CERN Vidyo Team Github page"
+title:  "Welcome to the CERN Vidyo Team Github page"
 date:   2016-02-12 17:50:00
 categories: main
 ---
